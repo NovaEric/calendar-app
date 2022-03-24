@@ -5,7 +5,7 @@
 # Deployed at Heroku 
 
 
-# Repo --> https://git.heroku.com/mern-calendar-app-backend-nova.git
+# Repo --> https://git.heroku.com/mern-calendar-app-backend-nova
 
 # Take a look
-# https://mern-calendar-app-backend-nova.herokuapp.com/login
+# https://mern-calendar-app-backend-nova.herokuapp.com/
